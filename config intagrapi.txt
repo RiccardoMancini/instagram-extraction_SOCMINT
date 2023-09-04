@@ -1,0 +1,2 @@
+python -m pip install instagrapi
+conda install -c anaconda pillow
